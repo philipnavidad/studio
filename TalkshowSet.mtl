@@ -1,0 +1,38 @@
+newmtl BuildingsNight:buildings_02_materialSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd buildings_02_DIFF.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl blinn6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.53 0.53 0.53
+Ni 1.00
+Ks 0.88 0.88 0.88
+newmtl blinn8SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TeaLamp_DIFF.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Stage_A_ATLAS.psd
+Ni 1.00
